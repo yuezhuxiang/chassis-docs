@@ -1,16 +1,3 @@
-/*!
- *  __  __                __                                     __
- * /\ \/\ \              /\ \             __                    /\ \
- * \ \ \_\ \   __  __    \_\ \      __   /\_\      __       ___ \ \ \/'\
- *  \ \  _  \ /\ \/\ \   /'_` \   /'__`\ \/\ \   /'__`\    /'___\\ \ , <
- *   \ \ \ \ \\ \ \_\ \ /\ \L\ \ /\  __/  \ \ \ /\ \L\.\_ /\ \__/ \ \ \\`\
- *    \ \_\ \_\\/`____ \\ \___,_\\ \____\ _\ \ \\ \__/.\_\\ \____\ \ \_\ \_\
- *     \/_/\/_/ `/___/> \\/__,_ / \/____//\ \_\ \\/__/\/_/ \/____/  \/_/\/_/
- *                 /\___/                \ \____/
- *                 \/__/                  \/___/
- *
- * Powered by Hydejack v8.5.2 <https://hydejack.com/>
- */
 !function(t) {
     var e = {};
     function r(n) {
@@ -9155,8 +9142,8 @@
     window.cancelIdleCallback = window.cancelIdleCallback || window.clearTimeout
 }
 , function(t, e) {
-    console.log(``)
-    // console.log("Powered by Hydejack v8.5.2 <https://hydejack.com/>")
+    console.log(`佛祖`)
+    console.log("Powered by Hydejack v8.5.2 <https://hydejack.com/>")
 }
 , function(t, e, r) {
     var n = r(64)
