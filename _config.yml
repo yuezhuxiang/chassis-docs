@@ -4,8 +4,8 @@
 # IMPORTANT: Set the URL of your site.
 # Set to https://<username>.github.io when hosting on GitHub Pages
 # (unless you are using a custom domain).
-# url:                   https://yuezhuxiang.github.io
-url:                   
+url:                   https://yuezhuxiang.github.io
+# url:                   
 
 # IMPORTANT: Set The "base URL" of your site.
 # When your site sits in a subdirectory, set to /<name of directory>
@@ -13,7 +13,7 @@ url:
 # Use the empty string '' otherwise.
 # For GitHub project sites, this is usually the name of the project,
 # e.g. `/hydejack`.
-# baseurl:               /chassis-docs/
+baseurl:               /chassis-docs/
 baseurl:               ''
 
 # Language of your content in 2-letter code, e.g.: en, de.
@@ -38,7 +38,7 @@ keywords:              []
 # A (square) logo for your site.
 # If provided, it will be shown at the top of the sidebar.
 # It also used by the `jekyll-seo-tag` plugin.
-logo:                  /assets/icons/icon.png
+logo:                  /assets/icons/icon1.png
 
 # This should be the same author as first entry in `_data/authors.yml`.
 author:
@@ -53,7 +53,7 @@ menu:
     url:               /lsc/
   - title:             R360
     url:               /r360/
-  - title:             Documentation
+  - title:             Docs
     url:               /docs/
   - title:             About
     url:               /about/

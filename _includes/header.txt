@@ -34,5 +34,5 @@
 //            佛祖保佑       永不宕机      永无BUG                　　//
 ////////////////////////////////////////////////////////////////////
 
- * Powered by BMW Chassis Team Zhu Xiang.
+ * Powered by BMW Chassis Team.
  */

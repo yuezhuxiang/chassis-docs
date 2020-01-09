@@ -2,8 +2,9 @@
 layout: post
 title: Example Content III
 description: >
-  A page showing Hydejack-specific markdown content.
+  This is description about this page.
 image: /assets/img/blog/example-content-iii.jpg
+noindex: true
 ---
 
 Hydejack offers a few additional features to markup your markdown.
@@ -83,11 +84,3 @@ A caption to an image.
 ## Faded text
 I'm faded, faded, faded.
 {:.faded}
-
-
-[mm]: https://guides.github.com/features/mastering-markdown/
-[ksyn]: https://kramdown.gettalong.org/syntax.html
-[ksyntab]:https://kramdown.gettalong.org/syntax.html#tables
-[ksynmath]: https://kramdown.gettalong.org/syntax.html#math-blocks
-[katex]: https://khan.github.io/KaTeX/
-[rtable]: https://dbushell.com/2016/03/04/css-only-responsive-tables/
