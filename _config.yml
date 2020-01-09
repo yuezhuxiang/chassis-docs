@@ -4,7 +4,8 @@
 # IMPORTANT: Set the URL of your site.
 # Set to https://<username>.github.io when hosting on GitHub Pages
 # (unless you are using a custom domain).
-url:                   https://yuezhuxiang.github.io
+# url:                   https://yuezhuxiang.github.io
+url:                   
 
 # IMPORTANT: Set The "base URL" of your site.
 # When your site sits in a subdirectory, set to /<name of directory>
@@ -12,14 +13,15 @@ url:                   https://yuezhuxiang.github.io
 # Use the empty string '' otherwise.
 # For GitHub project sites, this is usually the name of the project,
 # e.g. `/hydejack`.
-baseurl:               '/chassis-docs/'
+# baseurl:               /chassis-docs/
+baseurl:               ''
 
 # Language of your content in 2-letter code, e.g.: en, de.
 # You may also provide a location, e.g.: en-us, de_AT.
 lang:                  en
 
 # The title of your blog. Used in the sidebar and the browser tab.
-title:                 BMWChassisDocs
+title:                 ChassisDocs
 
 # A short description (~150 chars) of the page used for the meta description tag.
 # Can use markdown, but no more than one paragraph (enforced by `>`)
@@ -28,8 +30,7 @@ description:           >
 
 # A shorter description for the sidebar.
 tagline:               >
-  "Best Jekyll Theme by a Mile".
-  Open `_config.yml` to edit this text.
+  Documentation for chassis team.
 
 # A list of keywords for your blog
 keywords:              []
@@ -41,17 +42,17 @@ logo:                  /assets/icons/icon.png
 
 # This should be the same author as first entry in `_data/authors.yml`.
 author:
-  name:                <firstname> <lastname>
-  email:               <mail@domain.tld>
-  # Used by `jekyll-seo-tag`:
-  # twitter:             <username>
-
+  name:                Xiang Zhu
+  email:               xiang.zhu@partner.bmw.com
+  
 # Add links to the sidebar.
 menu:
-  - title:             Hydejack
-    url:               /hydejack/
-  - title:             Hyde
-    url:               /hyde/
+  - title:             Remote
+    url:               /remote/
+  - title:             LSC
+    url:               /lsc/
+  - title:             R360
+    url:               /r360/
   - title:             Documentation
     url:               /docs/
   - title:             About
